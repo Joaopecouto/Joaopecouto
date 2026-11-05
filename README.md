@@ -45,59 +45,59 @@ Hoje eu estou no 3º trimestre de Análise e Desenvolvimento de Sistemas e abert
 <table>
 <tr>
 <td width="120" align="center" valign="middle"><a href="https://github.com/Joaopecouto/mappex-case"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/projects/v4/mappex.png" width="88" alt="Ícone do projeto Mappex, Gerador de Leads"></a></td>
-<td valign="top"><b><a href="https://github.com/Joaopecouto/mappex-case">Mappex, Gerador de Leads</a></b> &nbsp;<sub>Demo ao vivo</sub><br>
+<td valign="top"><h3><a href="https://github.com/Joaopecouto/mappex-case">Mappex, Gerador de Leads</a> &nbsp;<sub>Demo ao vivo</sub></h3>
 SaaS de leads B2B com CRM no WhatsApp, mapa interativo e uma IA que só escolhe entre bairros reais do OpenStreetMap. Reescrito de Supabase para backend próprio em NestJS.<br><br>
 <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/react.svg" height="20" align="absmiddle" alt="">&nbsp; React&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/typescript.svg" height="20" align="absmiddle" alt="">&nbsp; TypeScript&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/nestjs.svg" height="20" align="absmiddle" alt="">&nbsp; NestJS&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/postgresql.svg" height="20" align="absmiddle" alt="">&nbsp; PostgreSQL&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/leaflet.svg" height="20" align="absmiddle" alt="">&nbsp; Leaflet&nbsp;&nbsp;</kbd><br><br>
-<a href="https://github.com/Joaopecouto/mappex-case">Projeto</a> &nbsp;·&nbsp; <a href="http://gerador-de-leads.alcetus.com">Demo</a></td>
+<a href="https://github.com/Joaopecouto/mappex-case">Projeto</a> &nbsp;·&nbsp; <a href="http://gerador-de-leads.alcetus.com">Demo</a><br><br></td>
 </tr>
 <tr>
 <td width="120" align="center" valign="middle"><a href="https://github.com/Joaopecouto/zappex-case"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/projects/v4/zappex.png" width="88" alt="Ícone do projeto zappex"></a></td>
-<td valign="top"><b><a href="https://github.com/Joaopecouto/zappex-case">zappex</a></b> &nbsp;<sub>Código privado</sub><br>
+<td valign="top"><h3><a href="https://github.com/Joaopecouto/zappex-case">zappex</a> &nbsp;<sub>Código privado</sub></h3>
 CRM Kanban dentro do WhatsApp Web, em extensão do Chrome com backend NestJS, cobrança no Stripe e mais de 6 mil testes automatizados.<br><br>
 <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/react.svg" height="20" align="absmiddle" alt="">&nbsp; React&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/typescript.svg" height="20" align="absmiddle" alt="">&nbsp; TypeScript&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/nestjs.svg" height="20" align="absmiddle" alt="">&nbsp; NestJS&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/stripe.svg" height="20" align="absmiddle" alt="">&nbsp; Stripe&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/chrome-extension.svg" height="20" align="absmiddle" alt="">&nbsp; Chrome extension&nbsp;&nbsp;</kbd><br><br>
-<a href="https://github.com/Joaopecouto/zappex-case">Projeto</a></td>
+<a href="https://github.com/Joaopecouto/zappex-case">Projeto</a><br><br></td>
 </tr>
 <tr>
 <td width="120" align="center" valign="middle"><a href="https://github.com/Joaopecouto/ok-claude-case"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/projects/v4/ok-claude.png" width="88" alt="Ícone do projeto Ok, Claude"></a></td>
-<td valign="top"><b><a href="https://github.com/Joaopecouto/ok-claude-case">Ok, Claude</a></b> &nbsp;<sub>Em desenvolvimento</sub><br>
+<td valign="top"><h3><a href="https://github.com/Joaopecouto/ok-claude-case">Ok, Claude</a> &nbsp;<sub>Em desenvolvimento</sub></h3>
 Agenda desktop para Windows com assistente de IA que não inventa informação: fora do app, só com fonte e link. Contrato Rust e TypeScript gerado e SQLite com backup.<br><br>
 <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/tauri.svg" height="20" align="absmiddle" alt="">&nbsp; Tauri&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/rust.svg" height="20" align="absmiddle" alt="">&nbsp; Rust&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/react.svg" height="20" align="absmiddle" alt="">&nbsp; React&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/sqlite.svg" height="20" align="absmiddle" alt="">&nbsp; SQLite&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/claude-api.svg" height="20" align="absmiddle" alt="">&nbsp; Claude API&nbsp;&nbsp;</kbd><br><br>
-<a href="https://github.com/Joaopecouto/ok-claude-case">Projeto</a></td>
+<a href="https://github.com/Joaopecouto/ok-claude-case">Projeto</a><br><br></td>
 </tr>
 <tr>
 <td width="120" align="center" valign="middle"><a href="https://github.com/Joaopecouto/TeamsAudioRecorder"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/projects/v4/gravador.png" width="88" alt="Ícone do projeto Gravador de Reunião"></a></td>
-<td valign="top"><b><a href="https://github.com/Joaopecouto/TeamsAudioRecorder">Gravador de Reunião</a></b> &nbsp;<sub>Chrome Web Store</sub><br>
+<td valign="top"><h3><a href="https://github.com/Joaopecouto/TeamsAudioRecorder">Gravador de Reunião</a> &nbsp;<sub>Chrome Web Store</sub></h3>
 Extensão que grava o áudio, transcreve com identificação de quem fala e resume reuniões do Google Meet e do Microsoft Teams. O áudio fica na máquina.<br><br>
 <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/manifest-v3.svg" height="20" align="absmiddle" alt="">&nbsp; Manifest V3&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/javascript.svg" height="20" align="absmiddle" alt="">&nbsp; JavaScript&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/gemini.svg" height="20" align="absmiddle" alt="">&nbsp; Gemini API&nbsp;&nbsp;</kbd><br><br>
-<a href="https://github.com/Joaopecouto/TeamsAudioRecorder">Código</a> &nbsp;·&nbsp; <a href="https://chromewebstore.google.com/detail/gravador-de-reuni%C3%A3o-%E2%86%92-mp3/oblcnhlpjjipaodcifnignjfdbgmmkdg?hl=pt-br">Chrome Web Store</a></td>
+<a href="https://github.com/Joaopecouto/TeamsAudioRecorder">Código</a> &nbsp;·&nbsp; <a href="https://chromewebstore.google.com/detail/gravador-de-reuni%C3%A3o-%E2%86%92-mp3/oblcnhlpjjipaodcifnignjfdbgmmkdg?hl=pt-br">Chrome Web Store</a><br><br></td>
 </tr>
 <tr>
 <td width="120" align="center" valign="middle"><a href="https://github.com/Joaopecouto/gym-alcetus"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/projects/v4/gym.png" width="88" alt="Ícone do projeto Gym Alcetus"></a></td>
-<td valign="top"><b><a href="https://github.com/Joaopecouto/gym-alcetus">Gym Alcetus</a></b> &nbsp;<sub>Demo ao vivo</sub><br>
+<td valign="top"><h3><a href="https://github.com/Joaopecouto/gym-alcetus">Gym Alcetus</a> &nbsp;<sub>Demo ao vivo</sub></h3>
 App de treino (PWA) com métricas, gráficos e heatmap muscular.<br><br>
 <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/react.svg" height="20" align="absmiddle" alt="">&nbsp; React&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/fastify.svg" height="20" align="absmiddle" alt="">&nbsp; Fastify&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/sqlite.svg" height="20" align="absmiddle" alt="">&nbsp; SQLite&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/typescript.svg" height="20" align="absmiddle" alt="">&nbsp; TypeScript&nbsp;&nbsp;</kbd><br><br>
-<a href="https://github.com/Joaopecouto/gym-alcetus">Código</a> &nbsp;·&nbsp; <a href="https://gym.alcetus.com">Demo</a></td>
+<a href="https://github.com/Joaopecouto/gym-alcetus">Código</a> &nbsp;·&nbsp; <a href="https://gym.alcetus.com">Demo</a><br><br></td>
 </tr>
 <tr>
 <td width="120" align="center" valign="middle"><a href="https://github.com/Joaopecouto/petala-dourada"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/projects/v4/petala.png" width="88" alt="Ícone do projeto Pétala Dourada"></a></td>
-<td valign="top"><b><a href="https://github.com/Joaopecouto/petala-dourada">Pétala Dourada</a></b> &nbsp;<sub>Demo</sub><br>
+<td valign="top"><h3><a href="https://github.com/Joaopecouto/petala-dourada">Pétala Dourada</a> &nbsp;<sub>Demo</sub></h3>
 E-commerce de moda feminina.<br><br>
 <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/nextjs.svg" height="20" align="absmiddle" alt="">&nbsp; Next.js&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/react.svg" height="20" align="absmiddle" alt="">&nbsp; React&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/typescript.svg" height="20" align="absmiddle" alt="">&nbsp; TypeScript&nbsp;&nbsp;</kbd><br><br>
-<a href="https://github.com/Joaopecouto/petala-dourada">Projeto</a> &nbsp;·&nbsp; <a href="https://dev.petaladourada.com.br">Demo</a></td>
+<a href="https://github.com/Joaopecouto/petala-dourada">Projeto</a> &nbsp;·&nbsp; <a href="https://dev.petaladourada.com.br">Demo</a><br><br></td>
 </tr>
 <tr>
 <td width="120" align="center" valign="middle"><a href="https://github.com/Joaopecouto/sites-clientes"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/projects/v4/sites.png" width="88" alt="Ícone do projeto Sites de clientes"></a></td>
-<td valign="top"><b><a href="https://github.com/Joaopecouto/sites-clientes">Sites de clientes</a></b> &nbsp;<sub>Portfólio</sub><br>
+<td valign="top"><h3><a href="https://github.com/Joaopecouto/sites-clientes">Sites de clientes</a> &nbsp;<sub>Portfólio</sub></h3>
 Mais de 20 sites para indústria, automotivo, turismo, advocacia e comércio: Vetek, Catita, CEMC, MPA Máquinas, Rebecca Amorim e outros.<br><br>
 <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/wordpress.svg" height="20" align="absmiddle" alt="">&nbsp; WordPress&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/elementor.svg" height="20" align="absmiddle" alt="">&nbsp; Elementor&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/html5.svg" height="20" align="absmiddle" alt="">&nbsp; HTML5&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/figma.svg" height="20" align="absmiddle" alt="">&nbsp; Figma&nbsp;&nbsp;</kbd><br><br>
-<a href="https://github.com/Joaopecouto/sites-clientes">Ver sites</a> &nbsp;·&nbsp; <a href="https://joaocouto.alcetus.com">Portfólio</a></td>
+<a href="https://github.com/Joaopecouto/sites-clientes">Ver sites</a> &nbsp;·&nbsp; <a href="https://joaocouto.alcetus.com">Portfólio</a><br><br></td>
 </tr>
 <tr>
 <td width="120" align="center" valign="middle"><a href="https://github.com/Joaopecouto/DevRecap"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/projects/v4/devrecap.png" width="88" alt="Ícone do projeto DevRecap"></a></td>
-<td valign="top"><b><a href="https://github.com/Joaopecouto/DevRecap">DevRecap</a></b> &nbsp;<sub>Código aberto</sub><br>
+<td valign="top"><h3><a href="https://github.com/Joaopecouto/DevRecap">DevRecap</a> &nbsp;<sub>Código aberto</sub></h3>
 App de bandeja do Windows que varre os repositórios no fim do dia e resume o que foi feito.<br><br>
 <kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/python.svg" height="20" align="absmiddle" alt="">&nbsp; Python&nbsp;&nbsp;</kbd> &nbsp;<kbd>&nbsp;<img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/pyinstaller.svg" height="20" align="absmiddle" alt="">&nbsp; PyInstaller&nbsp;&nbsp;</kbd><br><br>
-<a href="https://github.com/Joaopecouto/DevRecap">Código</a></td>
+<a href="https://github.com/Joaopecouto/DevRecap">Código</a><br><br></td>
 </tr>
 </table>
 
