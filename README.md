@@ -70,7 +70,7 @@ Agenda desktop para Windows com assistente de IA que não inventa informação: 
 <td width="50%" valign="top">
 <b><a href="https://github.com/Joaopecouto/TeamsAudioRecorder">Gravador de Reunião</a></b> &nbsp;<sub>Chrome Web Store</sub><br>
 Extensão que grava o áudio, transcreve com identificação de quem fala e resume reuniões do Google Meet e do Microsoft Teams. O áudio fica na máquina.<br><br>
-<img src="./assets/chips/manifest-v3.png" alt="Manifest V3" height="28"> <img src="./assets/chips/javascript.png" alt="JavaScript" height="28"> <img src="./assets/chips/gemini.png" alt="Gemini API" height="28"><br><br>
+<img src="./assets/chips/manifest-v3.png" alt="Manifest V3" height="28"> <img src="./assets/chips/lang-javascript.png" alt="JavaScript" height="28"> <img src="./assets/chips/gemini.png" alt="Gemini API" height="28"><br><br>
 <a href="https://github.com/Joaopecouto/TeamsAudioRecorder">Código</a> · <a href="https://chromewebstore.google.com/detail/gravador-de-reuni%C3%A3o-%E2%86%92-mp3/oblcnhlpjjipaodcifnignjfdbgmmkdg?hl=pt-br">Chrome Web Store</a>
 </td>
 </tr>
@@ -92,7 +92,7 @@ E-commerce de moda feminina.<br><br>
 <td width="50%" valign="top">
 <b><a href="https://github.com/Joaopecouto/sites-clientes">Sites de clientes</a></b> &nbsp;<sub>Portfólio</sub><br>
 Mais de 20 sites para indústria, automotivo, turismo, advocacia e comércio: Vetek, Catita, CEMC, MPA Máquinas, Rebecca Amorim e outros.<br><br>
-<img src="./assets/chips/wordpress.png" alt="WordPress" height="28"> <img src="./assets/chips/elementor.png" alt="Elementor" height="28"> <img src="./assets/chips/html5.png" alt="HTML5" height="28"> <img src="./assets/chips/figma.png" alt="Figma" height="28"><br><br>
+<img src="./assets/chips/wordpress.png" alt="WordPress" height="28"> <img src="./assets/chips/site-elementor.png" alt="Elementor" height="28"> <img src="./assets/chips/html5.png" alt="HTML5" height="28"> <img src="./assets/chips/figma.png" alt="Figma" height="28"><br><br>
 <a href="https://github.com/Joaopecouto/sites-clientes">Ver sites</a> · <a href="https://joaocouto.alcetus.com">Portfólio</a>
 </td>
 <td width="50%" valign="top">
@@ -110,7 +110,7 @@ App de bandeja do Windows que varre os repositórios no fim do dia e resume o qu
 <img src="./assets/chips/claude.png" alt="Claude Code" height="32"> <img src="./assets/chips/mcp.png" alt="MCP" height="32"> <img src="./assets/chips/claude-api.png" alt="Claude API" height="32"> <img src="./assets/chips/gemini.png" alt="Gemini API" height="32"> <img src="./assets/chips/groq.png" alt="Groq" height="32">
 
 **Front-end**<br>
-<img src="./assets/chips/react.png" alt="React" height="32"> <img src="./assets/chips/typescript.png" alt="TypeScript" height="32"> <img src="./assets/chips/javascript.png" alt="JavaScript" height="32"> <img src="./assets/chips/tailwind.png" alt="Tailwind CSS" height="32"> <img src="./assets/chips/vite.png" alt="Vite" height="32"> <img src="./assets/chips/html5.png" alt="HTML5" height="32"> <img src="./assets/chips/nextjs.png" alt="Next.js" height="32">
+<img src="./assets/chips/react.png" alt="React" height="32"> <img src="./assets/chips/typescript.png" alt="TypeScript" height="32"> <img src="./assets/chips/lang-javascript.png" alt="JavaScript" height="32"> <img src="./assets/chips/tailwind.png" alt="Tailwind CSS" height="32"> <img src="./assets/chips/vite.png" alt="Vite" height="32"> <img src="./assets/chips/html5.png" alt="HTML5" height="32"> <img src="./assets/chips/nextjs.png" alt="Next.js" height="32">
 
 **Back-end e desktop**<br>
 <img src="./assets/chips/nodejs.png" alt="Node.js" height="32"> <img src="./assets/chips/nestjs.png" alt="NestJS" height="32"> <img src="./assets/chips/fastify.png" alt="Fastify" height="32"> <img src="./assets/chips/prisma.png" alt="Prisma" height="32"> <img src="./assets/chips/postgresql.png" alt="PostgreSQL" height="32"> <img src="./assets/chips/sqlite.png" alt="SQLite" height="32"> <img src="./assets/chips/redis.png" alt="Redis" height="32"> <img src="./assets/chips/stripe.png" alt="Stripe" height="32"> <img src="./assets/chips/rust.png" alt="Rust" height="32"> <img src="./assets/chips/tauri.png" alt="Tauri" height="32"> <img src="./assets/chips/python.png" alt="Python" height="32">
@@ -119,7 +119,7 @@ App de bandeja do Windows que varre os repositórios no fim do dia e resume o qu
 <img src="./assets/chips/vitest.png" alt="Vitest" height="32"> <img src="./assets/chips/playwright.png" alt="Playwright" height="32"> <img src="./assets/chips/github-actions.png" alt="GitHub Actions" height="32"> <img src="./assets/chips/docker.png" alt="Docker" height="32"> <img src="./assets/chips/nginx.png" alt="Nginx" height="32"> <img src="./assets/chips/cloudflare.png" alt="Cloudflare" height="32"> <img src="./assets/chips/git.png" alt="Git" height="32"> <img src="./assets/chips/n8n.png" alt="n8n" height="32"> <img src="./assets/chips/sentry.png" alt="Sentry" height="32">
 
 **Sites**<br>
-<img src="./assets/chips/wordpress.png" alt="WordPress" height="32"> <img src="./assets/chips/elementor.png" alt="Elementor" height="32"> <img src="./assets/chips/figma.png" alt="Figma" height="32">
+<img src="./assets/chips/wordpress.png" alt="WordPress" height="32"> <img src="./assets/chips/site-elementor.png" alt="Elementor" height="32"> <img src="./assets/chips/figma.png" alt="Figma" height="32">
 
 ### Experiência
 
@@ -192,7 +192,7 @@ Windows desktop planner with an AI assistant that does not make things up: outsi
 <td width="50%" valign="top">
 <b><a href="https://github.com/Joaopecouto/TeamsAudioRecorder">Meeting Recorder</a></b> &nbsp;<sub>Chrome Web Store</sub><br>
 Extension that records audio, transcribes with speaker identification and summarizes Google Meet and Microsoft Teams meetings. Audio stays on your machine.<br><br>
-<img src="./assets/chips/manifest-v3.png" alt="Manifest V3" height="28"> <img src="./assets/chips/javascript.png" alt="JavaScript" height="28"> <img src="./assets/chips/gemini.png" alt="Gemini API" height="28"><br><br>
+<img src="./assets/chips/manifest-v3.png" alt="Manifest V3" height="28"> <img src="./assets/chips/lang-javascript.png" alt="JavaScript" height="28"> <img src="./assets/chips/gemini.png" alt="Gemini API" height="28"><br><br>
 <a href="https://github.com/Joaopecouto/TeamsAudioRecorder">Code</a> · <a href="https://chromewebstore.google.com/detail/gravador-de-reuni%C3%A3o-%E2%86%92-mp3/oblcnhlpjjipaodcifnignjfdbgmmkdg?hl=en">Chrome Web Store</a>
 </td>
 </tr>
@@ -214,7 +214,7 @@ Women's fashion e-commerce.<br><br>
 <td width="50%" valign="top">
 <b><a href="https://github.com/Joaopecouto/sites-clientes">Client websites</a></b> &nbsp;<sub>Portfolio</sub><br>
 20+ websites for industry, automotive, tourism, legal and retail: Vetek, Catita, CEMC, MPA Máquinas, Rebecca Amorim and more.<br><br>
-<img src="./assets/chips/wordpress.png" alt="WordPress" height="28"> <img src="./assets/chips/elementor.png" alt="Elementor" height="28"> <img src="./assets/chips/html5.png" alt="HTML5" height="28"> <img src="./assets/chips/figma.png" alt="Figma" height="28"><br><br>
+<img src="./assets/chips/wordpress.png" alt="WordPress" height="28"> <img src="./assets/chips/site-elementor.png" alt="Elementor" height="28"> <img src="./assets/chips/html5.png" alt="HTML5" height="28"> <img src="./assets/chips/figma.png" alt="Figma" height="28"><br><br>
 <a href="https://github.com/Joaopecouto/sites-clientes">See the sites</a> · <a href="https://joaocouto.alcetus.com">Portfolio</a>
 </td>
 <td width="50%" valign="top">
@@ -232,7 +232,7 @@ Windows tray app that scans your repositories at the end of the day and summariz
 <img src="./assets/chips/claude.png" alt="Claude Code" height="32"> <img src="./assets/chips/mcp.png" alt="MCP" height="32"> <img src="./assets/chips/claude-api.png" alt="Claude API" height="32"> <img src="./assets/chips/gemini.png" alt="Gemini API" height="32"> <img src="./assets/chips/groq.png" alt="Groq" height="32">
 
 **Front-end**<br>
-<img src="./assets/chips/react.png" alt="React" height="32"> <img src="./assets/chips/typescript.png" alt="TypeScript" height="32"> <img src="./assets/chips/javascript.png" alt="JavaScript" height="32"> <img src="./assets/chips/tailwind.png" alt="Tailwind CSS" height="32"> <img src="./assets/chips/vite.png" alt="Vite" height="32"> <img src="./assets/chips/html5.png" alt="HTML5" height="32"> <img src="./assets/chips/nextjs.png" alt="Next.js" height="32">
+<img src="./assets/chips/react.png" alt="React" height="32"> <img src="./assets/chips/typescript.png" alt="TypeScript" height="32"> <img src="./assets/chips/lang-javascript.png" alt="JavaScript" height="32"> <img src="./assets/chips/tailwind.png" alt="Tailwind CSS" height="32"> <img src="./assets/chips/vite.png" alt="Vite" height="32"> <img src="./assets/chips/html5.png" alt="HTML5" height="32"> <img src="./assets/chips/nextjs.png" alt="Next.js" height="32">
 
 **Back-end and desktop**<br>
 <img src="./assets/chips/nodejs.png" alt="Node.js" height="32"> <img src="./assets/chips/nestjs.png" alt="NestJS" height="32"> <img src="./assets/chips/fastify.png" alt="Fastify" height="32"> <img src="./assets/chips/prisma.png" alt="Prisma" height="32"> <img src="./assets/chips/postgresql.png" alt="PostgreSQL" height="32"> <img src="./assets/chips/sqlite.png" alt="SQLite" height="32"> <img src="./assets/chips/redis.png" alt="Redis" height="32"> <img src="./assets/chips/stripe.png" alt="Stripe" height="32"> <img src="./assets/chips/rust.png" alt="Rust" height="32"> <img src="./assets/chips/tauri.png" alt="Tauri" height="32"> <img src="./assets/chips/python.png" alt="Python" height="32">
@@ -241,7 +241,7 @@ Windows tray app that scans your repositories at the end of the day and summariz
 <img src="./assets/chips/vitest.png" alt="Vitest" height="32"> <img src="./assets/chips/playwright.png" alt="Playwright" height="32"> <img src="./assets/chips/github-actions.png" alt="GitHub Actions" height="32"> <img src="./assets/chips/docker.png" alt="Docker" height="32"> <img src="./assets/chips/nginx.png" alt="Nginx" height="32"> <img src="./assets/chips/cloudflare.png" alt="Cloudflare" height="32"> <img src="./assets/chips/git.png" alt="Git" height="32"> <img src="./assets/chips/n8n.png" alt="n8n" height="32"> <img src="./assets/chips/sentry.png" alt="Sentry" height="32">
 
 **Websites**<br>
-<img src="./assets/chips/wordpress.png" alt="WordPress" height="32"> <img src="./assets/chips/elementor.png" alt="Elementor" height="32"> <img src="./assets/chips/figma.png" alt="Figma" height="32">
+<img src="./assets/chips/wordpress.png" alt="WordPress" height="32"> <img src="./assets/chips/site-elementor.png" alt="Elementor" height="32"> <img src="./assets/chips/figma.png" alt="Figma" height="32">
 
 ### Experience
 
