@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/header-v3.png" alt="João Pedro Couto, web developer: React, TypeScript, Node.js, NestJS, Claude Code and MCP" width="100%">
+  <a href="./README.en.md"><img src="./assets/header-v3.png" alt="João Pedro Couto, web developer: React, TypeScript, Node.js, NestJS, Claude Code and MCP" width="100%"></a>
 </p>
 
-<p align="center"><a href="./README.md"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/lang/v1/pt-off.png" height="40" alt="Mudar para Português"></a> &nbsp; <img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/lang/v1/en-on.png" height="40" alt="English (current language)"></p>
+<p align="center"><a href="./README.md"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/lang/v1/pt-off.png" height="40" alt="Mudar para Português"></a> &nbsp; <a href="./README.en.md"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/lang/v1/en-on.png" height="40" alt="English (current language)"></a></p>
 
 
 <p align="center">
