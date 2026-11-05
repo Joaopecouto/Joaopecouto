@@ -1,123 +1,141 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="João Pedro Couto, Desenvolvedor Web: React, TypeScript, Node.js, NestJS, Claude Code e MCP" width="100%">
+  <img src="./assets/header.png" alt="João Pedro Couto, desenvolvedor web: React, TypeScript, Node.js, NestJS, Claude Code e MCP" width="100%">
 </p>
 
 <p align="center">
-  <b>Desenvolvedor Web · React, TypeScript, Node.js, NestJS · IA aplicada</b><br>
-  <sub><i>Web Developer · React, TypeScript, Node.js, NestJS · Applied AI</i></sub>
+  <a href="#portugu%C3%AAs"><b>Português</b></a> &nbsp;|&nbsp; <a href="#english"><b>English</b></a>
 </p>
 
 <p align="center">
-  <a href="https://joaocouto.alcetus.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-joaocouto.alcetus.com-1F4A7D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
-  <a href="mailto:joaopecouto77@gmail.com"><img src="https://img.shields.io/badge/E--mail-joaopecouto77%40gmail.com-1F4A7D?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <a href="https://chromewebstore.google.com/detail/gravador-de-reuni%C3%A3o-%E2%86%92-mp3/oblcnhlpjjipaodcifnignjfdbgmmkdg?hl=pt-br"><img src="https://img.shields.io/badge/Chrome_Web_Store-Gravador_de_Reuni%C3%A3o-1F4A7D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Gravador de Reunião na Chrome Web Store"></a>
+  <img src="./assets/numbers.png" alt="17 mil testes automatizados, 20 cursos oficiais da Anthropic, 20 sites entregues e 1 extensão na Chrome Web Store" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://joaocouto.alcetus.com">joaocouto.alcetus.com</a> &nbsp;·&nbsp;
+  <a href="mailto:joaopecouto77@gmail.com">joaopecouto77@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://chromewebstore.google.com/detail/gravador-de-reuni%C3%A3o-%E2%86%92-mp3/oblcnhlpjjipaodcifnignjfdbgmmkdg?hl=pt-br">Chrome Web Store</a>
 </p>
 
 ---
+
+## Português
+
+### Minha história
+
+Comecei pela eletrônica: sou técnico formado pela FAETEC Ferreira Viana. Em junho de 2022 entrei na Captaris, uma agência de marketing digital, para fazer sites. Pouco depois também automatizava o fluxo de demandas com n8n e ClickUp e coordenava o trabalho entre Jurídico, Financeiro e Operacional. Os sites entregues vieram com +20% na receita mensal, e a automação trouxe +45% de eficiência aos processos.
+
+Em junho de 2024 passei a atender clientes por conta própria, sob a marca Alcetus: mais de 20 sites para indústria, setor automotivo, turismo, advocacia e comércio, do desenho ao deploy em VPS.
+
+Em 2026 mudei de escala, de sites para produtos. Reescrevi o Mappex, que nasceu em Supabase, para um backend próprio em NestJS. Construí o zappex, um CRM dentro do WhatsApp Web, e o Ok, Claude, um app desktop em Tauri e Rust. Nos três o Claude Code entrou no fluxo de trabalho, e fiz mais de 20 cursos oficiais da Anthropic para usá-lo com método: subagentes em worktrees isolados, hooks e CI em toda branch.
+
+A IA nos meus produtos tem limite explícito. No Mappex, o modelo só escolhe entre bairros reais do OpenStreetMap. No Ok, Claude, o assistente não inventa: informação de fora do app só aparece com fonte e link.
+
+Hoje estou no 3º trimestre de Análise e Desenvolvimento de Sistemas e aberto a oportunidades como desenvolvedor.
+
+<p align="center">
+  <img src="./assets/timeline.png" alt="Linha do tempo: técnico em eletrônica, Captaris em 2022, Alcetus freelance em 2024, produtos e IA em 2026" width="100%">
+</p>
+
+### Projetos
 
 <table>
 <tr>
-<td valign="top" width="50%">
-
-#### 🇧🇷 Sobre
-
-Desenvolvimento de **SaaS, CRMs, extensões de navegador e apps desktop** com React, TypeScript, Node.js, NestJS e PostgreSQL, sob a marca **Alcetus**.
-
-- 🤖 **IA aplicada:** Claude Code (subagentes, hooks, skills), MCP e integração de LLMs via API (Claude, Gemini, Groq)
-- 🎓 **Mais de 20 cursos oficiais da Anthropic** (Claude Code, MCP, subagents, Agent Skills, Claude API, evals)
-- 🧪 **Mais de 17 mil testes automatizados** nos projetos (Vitest, Playwright, axe-core)
-- 🌐 **Mais de 20 sites entregues** a clientes com WordPress, Elementor, HTML, CSS e JavaScript
-- 📚 Cursando Análise e Desenvolvimento de Sistemas (Descomplica)
-
-</td>
-<td valign="top" width="50%">
-
-#### 🇺🇸 About
-
-Building **SaaS, CRMs, browser extensions and desktop apps** with React, TypeScript, Node.js, NestJS and PostgreSQL, under the **Alcetus** brand.
-
-- 🤖 **Applied AI:** Claude Code (subagents, hooks, skills), MCP and LLM integration through APIs (Claude, Gemini, Groq)
-- 🎓 **20+ official Anthropic courses** (Claude Code, MCP, subagents, Agent Skills, Claude API, evals)
-- 🧪 **17,000+ automated tests** across projects (Vitest, Playwright, axe-core)
-- 🌐 **20+ websites delivered** for clients with WordPress, Elementor, HTML, CSS and JavaScript
-- 📚 Studying Systems Analysis and Development (Descomplica)
-
-</td>
+<td width="50%"><a href="https://github.com/Joaopecouto/mappex-case"><img src="./assets/card-mappex.png" alt="Mappex: SaaS de leads B2B com CRM no WhatsApp" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/Joaopecouto/zappex-case"><img src="./assets/card-zappex.png" alt="zappex: CRM Kanban dentro do WhatsApp Web" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Joaopecouto/ok-claude-case"><img src="./assets/card-ok-claude.png" alt="Ok, Claude: agenda desktop com assistente de IA" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/Joaopecouto/TeamsAudioRecorder"><img src="./assets/card-gravador.png" alt="Gravador de Reunião: extensão para Meet e Teams" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Joaopecouto/gym-alcetus"><img src="./assets/card-gym.png" alt="Gym Alcetus: app de treino PWA" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/Joaopecouto/petala-dourada"><img src="./assets/card-petala.png" alt="Pétala Dourada: e-commerce de moda feminina" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Joaopecouto/sites-clientes"><img src="./assets/card-sites.png" alt="Sites de clientes: mais de 20 sites entregues" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/Joaopecouto/DevRecap"><img src="./assets/card-devrecap.png" alt="DevRecap: app de bandeja do Windows que resume o dia de código" width="100%"></a></td>
 </tr>
 </table>
 
----
+Demos: [Mappex](http://gerador-de-leads.alcetus.com) · [Gym Alcetus](https://gym.alcetus.com) · [Pétala Dourada](https://dev.petaladourada.com.br) · [Gravador de Reunião na Chrome Web Store](https://chromewebstore.google.com/detail/gravador-de-reuni%C3%A3o-%E2%86%92-mp3/oblcnhlpjjipaodcifnignjfdbgmmkdg?hl=pt-br)
 
-### 🚀 Projetos em destaque · Featured projects
+### Tecnologias
 
-| Projeto · Project | O que é · What it is | Links |
-| --- | --- | --- |
-| **Mappex, Gerador de Leads** | SaaS de leads B2B com CRM no WhatsApp, mapa e IA que só escolhe entre bairros reais · <i>B2B lead-gen SaaS with WhatsApp CRM</i> | [📂 Case](https://github.com/Joaopecouto/mappex-case) · [🌐 Demo](http://gerador-de-leads.alcetus.com) |
-| **zappex** | CRM Kanban dentro do WhatsApp Web: extensão Chrome, backend NestJS e cobrança com Stripe · <i>Kanban CRM inside WhatsApp Web</i> | [📂 Case](https://github.com/Joaopecouto/zappex-case) |
-| **Ok, Claude** | Agenda desktop com assistente de IA: Tauri 2, Rust, React 19 e SQLite · <i>Desktop planner with an AI assistant</i> | [📂 Case](https://github.com/Joaopecouto/ok-claude-case) |
-| **Gravador de Reunião** | Extensão Chrome (Manifest V3) que grava, transcreve e resume reuniões do Meet e do Teams · <i>Meeting recorder and summarizer</i> | [💻 Código](https://github.com/Joaopecouto/TeamsAudioRecorder) · [🧩 Chrome Web Store](https://chromewebstore.google.com/detail/gravador-de-reuni%C3%A3o-%E2%86%92-mp3/oblcnhlpjjipaodcifnignjfdbgmmkdg?hl=pt-br) |
-| **Gym Alcetus** | App de treino (PWA) com métricas e heatmap muscular · <i>Workout tracker PWA</i> | [💻 Código](https://github.com/Joaopecouto/gym-alcetus) · [🌐 Demo](https://gym.alcetus.com) |
-| **Pétala Dourada** | E-commerce de moda feminina · <i>Fashion e-commerce</i> | [📂 Case](https://github.com/Joaopecouto/petala-dourada) · [🌐 Demo](https://dev.petaladourada.com.br) |
-| **Sites de clientes** | Vetek, Catita, CEMC, MPA Máquinas, Rebecca Amorim e outros · <i>Client websites</i> | [📂 Ver · See](https://github.com/Joaopecouto/sites-clientes) |
-| **DevRecap** | App de bandeja do Windows que resume o dia de código · <i>Windows tray app that summarizes your coding day</i> | [💻 Código](https://github.com/Joaopecouto/DevRecap) |
+<img src="./assets/stack.png" alt="Tecnologias: Claude Code, MCP, Claude API, Gemini API, React, TypeScript, Tailwind CSS, Node.js, NestJS, Fastify, Prisma, PostgreSQL, SQLite, Redis, Stripe, Rust, Tauri, Vitest, Playwright, Docker, Nginx, Cloudflare, n8n, WordPress, Elementor, Figma" width="100%">
 
----
+### Experiência
 
-### 🧰 Tecnologias · Tech stack
+- **Desenvolvedor web freelance, marca Alcetus** (jun/2024 até hoje): sites institucionais, landing pages e e-commerce com WordPress, Elementor, HTML, CSS, JavaScript e Figma; publicação em VPS com Docker, Nginx e Cloudflare.
+- **Captaris Marketing Digital** (jun/2022 a ago/2025): desenvolvedor de sites e automação e gerente operacional. Sites de alta conversão (+20% na receita mensal), automação de demandas via WhatsApp com n8n e ClickUp (+45% de eficiência) e gestão de demandas entre Jurídico, Financeiro e Operacional.
 
-**IA · AI**
+### Formação e cursos
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-1F4A7D?style=for-the-badge)
-![Anthropic API](https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+- **Análise e Desenvolvimento de Sistemas** (Tecnólogo), Faculdade Descomplica, cursando o 3º trimestre. **Técnico em Eletrônica**, FAETEC Ferreira Viana.
+- **Anthropic, mais de 20 cursos oficiais (2026):** Claude 101, Claude Code 101, Claude Code in action, Claude Cowork, Claude Tag, Claude Platform 101, Model Context Protocol (introdução e tópicos avançados), Introduction to subagents, Introduction to agent skills, Building with the Claude API, Tool use with the Messages API, Introduction to evals, Claude with Amazon Bedrock, Claude on Google Cloud, AI Fluency, Building effective human-agent teams, The AI-native SDLC playbook.
+- **Outros:** Modelo de Governança e Gestão (gestaopublicagov.br, 2026), Produtividade e Organização e Técnicas e Ferramentas para Projetos (Descomplica) e Comunidade Celados.
 
-**Front-end**
+### Contato
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Back-end e desktop · Back-end and desktop**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
-
-**Testes e DevOps · Testing and DevOps**
-
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**Sites · Websites**
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[joaocouto.alcetus.com](https://joaocouto.alcetus.com) · [joaopecouto77@gmail.com](mailto:joaopecouto77@gmail.com) · Rio de Janeiro, Brasil
 
 ---
 
-### 💼 Experiência · Experience
+## English
 
-- **Desenvolvedor web freelance** (marca Alcetus), jun/2024 até hoje: sites institucionais, landing pages e e-commerce para clientes industriais, automotivos, de turismo, jurídicos e de comércio · <i>Freelance web developer</i>
-- **Captaris Marketing Digital**, jun/2022 a ago/2025: desenvolvimento de sites, automações com n8n e ClickUp e gestão operacional · <i>Web developer, automation and operations</i>
+### My story
 
----
+I started in electronics: I am a certified technician from FAETEC Ferreira Viana. In June 2022 I joined Captaris, a digital marketing agency, to build websites. Soon after I was also automating the request workflow with n8n and ClickUp and coordinating work between the Legal, Finance and Operations teams. The websites shipped with +20% monthly revenue, and the automation brought +45% efficiency to the processes.
+
+In June 2024 I started serving clients on my own under the Alcetus brand: 20+ websites for industrial, automotive, tourism, law and retail businesses, from design to VPS deployment.
+
+In 2026 I changed scale, from websites to products. I rewrote Mappex, which started on Supabase, into its own NestJS backend. I built zappex, a CRM inside WhatsApp Web, and Ok, Claude, a desktop app in Tauri and Rust. Claude Code is part of the workflow in all three, and I took 20+ official Anthropic courses to use it with method: subagents in isolated worktrees, hooks, and CI on every branch.
+
+AI in my products has explicit limits. In Mappex, the model only picks from real OpenStreetMap neighborhoods. In Ok, Claude, the assistant does not make things up: information from outside the app only appears with a source and a link.
+
+Today I am in the 3rd term of Systems Analysis and Development and open to opportunities as a developer.
 
 <p align="center">
-  <sub>📫 <a href="mailto:joaopecouto77@gmail.com">joaopecouto77@gmail.com</a> · 🌐 <a href="https://joaocouto.alcetus.com">joaocouto.alcetus.com</a> · 📍 Rio de Janeiro, Brasil</sub>
+  <img src="./assets/timeline.png" alt="Timeline: electronics technician, Captaris in 2022, Alcetus freelance in 2024, products and AI in 2026" width="100%">
 </p>
+
+### Projects
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/Joaopecouto/mappex-case"><img src="./assets/card-mappex.png" alt="Mappex: B2B lead-gen SaaS with WhatsApp CRM" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/Joaopecouto/zappex-case"><img src="./assets/card-zappex.png" alt="zappex: Kanban CRM inside WhatsApp Web" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Joaopecouto/ok-claude-case"><img src="./assets/card-ok-claude.png" alt="Ok, Claude: desktop planner with an AI assistant" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/Joaopecouto/TeamsAudioRecorder"><img src="./assets/card-gravador.png" alt="Meeting Recorder: extension for Meet and Teams" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Joaopecouto/gym-alcetus"><img src="./assets/card-gym.png" alt="Gym Alcetus: workout tracker PWA" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/Joaopecouto/petala-dourada"><img src="./assets/card-petala.png" alt="Pétala Dourada: women's fashion e-commerce" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Joaopecouto/sites-clientes"><img src="./assets/card-sites.png" alt="Client websites: 20+ websites delivered" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/Joaopecouto/DevRecap"><img src="./assets/card-devrecap.png" alt="DevRecap: Windows tray app that summarizes your coding day" width="100%"></a></td>
+</tr>
+</table>
+
+Demos: [Mappex](http://gerador-de-leads.alcetus.com) · [Gym Alcetus](https://gym.alcetus.com) · [Pétala Dourada](https://dev.petaladourada.com.br) · [Meeting Recorder on the Chrome Web Store](https://chromewebstore.google.com/detail/gravador-de-reuni%C3%A3o-%E2%86%92-mp3/oblcnhlpjjipaodcifnignjfdbgmmkdg?hl=en)
+
+### Tech stack
+
+<img src="./assets/stack.png" alt="Tech stack: Claude Code, MCP, Claude API, Gemini API, React, TypeScript, Tailwind CSS, Node.js, NestJS, Fastify, Prisma, PostgreSQL, SQLite, Redis, Stripe, Rust, Tauri, Vitest, Playwright, Docker, Nginx, Cloudflare, n8n, WordPress, Elementor, Figma" width="100%">
+
+### Experience
+
+- **Freelance web developer, Alcetus brand** (Jun 2024 to present): corporate websites, landing pages and e-commerce with WordPress, Elementor, HTML, CSS, JavaScript and Figma; VPS deployment with Docker, Nginx and Cloudflare.
+- **Captaris Marketing Digital** (Jun 2022 to Aug 2025): web and automation developer and operations manager. High-conversion websites (+20% monthly revenue), WhatsApp request automation with n8n and ClickUp (+45% efficiency), and request management across the Legal, Finance and Operations teams.
+
+### Education and courses
+
+- **Systems Analysis and Development** (technologist degree), Faculdade Descomplica, 3rd term in progress. **Electronics Technician**, FAETEC Ferreira Viana.
+- **Anthropic, 20+ official courses (2026):** Claude 101, Claude Code 101, Claude Code in action, Claude Cowork, Claude Tag, Claude Platform 101, Model Context Protocol (introduction and advanced topics), Introduction to subagents, Introduction to agent skills, Building with the Claude API, Tool use with the Messages API, Introduction to evals, Claude with Amazon Bedrock, Claude on Google Cloud, AI Fluency, Building effective human-agent teams, The AI-native SDLC playbook.
+- **Other:** Governance and Management Model (gestaopublicagov.br, 2026), Productivity and Organization and Project Tools and Techniques (Descomplica), and Comunidade Celados.
+
+### Contact
+
+[joaocouto.alcetus.com](https://joaocouto.alcetus.com) · [joaopecouto77@gmail.com](mailto:joaopecouto77@gmail.com) · Rio de Janeiro, Brazil
