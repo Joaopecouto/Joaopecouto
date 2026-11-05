@@ -85,7 +85,7 @@ App de treino (PWA) com métricas, gráficos e heatmap muscular.<br><br>
 <td width="120" align="center" valign="middle"><a href="https://github.com/Joaopecouto/petala-dourada"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/projects/v4/petala.png" width="88" alt="Ícone do projeto Pétala Dourada"></a></td>
 <td valign="top"><b><a href="https://github.com/Joaopecouto/petala-dourada">Pétala Dourada</a></b> &nbsp;<sub>Demo</sub><br>
 E-commerce de moda feminina.<br><br>
-<kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/nextjs.svg" height="18" align="absmiddle" alt=""> Next.js</kbd> <kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/react.svg" height="18" align="absmiddle" alt=""> React</kbd> <kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/woocommerce.svg" height="18" align="absmiddle" alt=""> WooCommerce</kbd><br><br>
+<kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/nextjs.svg" height="18" align="absmiddle" alt=""> Next.js</kbd> <kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/react.svg" height="18" align="absmiddle" alt=""> React</kbd> <kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/typescript.svg" height="18" align="absmiddle" alt=""> TypeScript</kbd><br><br>
 <a href="https://github.com/Joaopecouto/petala-dourada">Projeto</a> · <a href="https://dev.petaladourada.com.br">Demo</a></td>
 </tr>
 <tr>
@@ -207,7 +207,7 @@ Workout tracker PWA with metrics, charts and a muscle heatmap.<br><br>
 <td width="120" align="center" valign="middle"><a href="https://github.com/Joaopecouto/petala-dourada"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/projects/v4/petala.png" width="88" alt="Ícone do projeto Pétala Dourada"></a></td>
 <td valign="top"><b><a href="https://github.com/Joaopecouto/petala-dourada">Pétala Dourada</a></b> &nbsp;<sub>Demo</sub><br>
 Women's fashion e-commerce.<br><br>
-<kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/nextjs.svg" height="18" align="absmiddle" alt=""> Next.js</kbd> <kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/react.svg" height="18" align="absmiddle" alt=""> React</kbd> <kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/woocommerce.svg" height="18" align="absmiddle" alt=""> WooCommerce</kbd><br><br>
+<kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/nextjs.svg" height="18" align="absmiddle" alt=""> Next.js</kbd> <kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/react.svg" height="18" align="absmiddle" alt=""> React</kbd> <kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/typescript.svg" height="18" align="absmiddle" alt=""> TypeScript</kbd><br><br>
 <a href="https://github.com/Joaopecouto/petala-dourada">Project</a> · <a href="https://dev.petaladourada.com.br">Demo</a></td>
 </tr>
 <tr>
