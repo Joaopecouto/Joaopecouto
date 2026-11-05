@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.png" alt="João Pedro Couto, desenvolvedor web: React, TypeScript, Node.js, NestJS, Claude Code e MCP" width="100%">
+  <img src="./assets/header-v3.png" alt="João Pedro Couto, desenvolvedor web: React, TypeScript, Node.js, NestJS, Claude Code e MCP" width="100%">
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/lang/v1/pt-on.png" height="40" alt="Português (idioma atual)"> &nbsp; <a href="./README.en.md"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/lang/v1/en-off.png" height="40" alt="Switch to English"></a></p>
@@ -26,15 +26,15 @@
 
 ### Minha história
 
-Em junho de 2022 entrei na Captaris, uma agência de marketing digital, para fazer sites. Pouco depois também automatizava o fluxo de demandas com n8n e ClickUp e coordenava o trabalho entre Jurídico, Financeiro e Operacional. Os sites entregues vieram com +20% na receita mensal, e a automação trouxe +45% de eficiência aos processos.
+Em junho de 2022 entrei na Captaris, uma agência de marketing digital, para fazer sites. Pouco depois eu já estava automatizando o fluxo de demandas com n8n e ClickUp e coordenando o trabalho entre Jurídico, Financeiro e Operacional. Os sites entregues vieram com +20% na receita mensal, e a automação trouxe +45% de eficiência aos processos.
 
-Em junho de 2024 passei a atender clientes por conta própria, sob a marca Alcetus: mais de 20 sites para indústria, setor automotivo, turismo, advocacia e comércio, do desenho ao deploy em VPS.
+Em junho de 2024 passei a atender clientes por conta própria, sob a marca Alcetus. Foram mais de 20 sites para indústria, setor automotivo, turismo, advocacia e comércio, do desenho até o deploy em VPS.
 
-Em 2026 mudei de escala, de sites para produtos. Reescrevi o Mappex, que nasceu em Supabase, para um backend próprio em NestJS. Construí o zappex, um CRM dentro do WhatsApp Web, e o Ok, Claude, um app desktop em Tauri e Rust. Nos três o Claude Code entrou no fluxo de trabalho, e fiz mais de 20 cursos oficiais da Anthropic para usá-lo com método: subagentes em worktrees isolados, hooks e CI em toda branch.
+Em 2026 eu mudei de escala, de sites para produtos. Reescrevi o Mappex, que nasceu em Supabase, para um backend próprio em NestJS, e construí o zappex, um CRM dentro do WhatsApp Web, e o Ok, Claude, um app desktop em Tauri e Rust. Nos três o Claude Code entrou no meu fluxo de trabalho, e aí eu fiz mais de 20 cursos oficiais da Anthropic para usar isso com método: subagentes em worktrees isolados, hooks e CI em toda branch.
 
-A IA nos meus produtos tem limite explícito. No Mappex, o modelo só escolhe entre bairros reais do OpenStreetMap. No Ok, Claude, o assistente não inventa: informação de fora do app só aparece com fonte e link.
+A IA nos meus produtos tem um limite bem explícito. No Mappex, o modelo só escolhe entre bairros reais do OpenStreetMap. No Ok, Claude, o assistente não inventa nada: informação de fora do app só aparece com fonte e link.
 
-Hoje estou no 3º trimestre de Análise e Desenvolvimento de Sistemas e aberto a oportunidades como desenvolvedor.
+Hoje eu estou no 3º trimestre de Análise e Desenvolvimento de Sistemas e aberto a oportunidades como desenvolvedor.
 
 <p align="center">
   <img src="./assets/timeline.png" alt="Linha do tempo: Captaris em 2022, Alcetus freelance em 2024, produtos e IA em 2026" width="100%">
