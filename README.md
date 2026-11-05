@@ -2,7 +2,8 @@
   <img src="./assets/header.png" alt="João Pedro Couto, desenvolvedor web: React, TypeScript, Node.js, NestJS, Claude Code e MCP" width="100%">
 </p>
 
-<p align="center"><kbd><b>Português</b></kbd> <a href="./README.en.md"><kbd>English</kbd></a></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/lang/v1/pt-on.png" height="52" alt="Português (idioma atual)"> &nbsp; <a href="./README.en.md"><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/lang/v1/en-off.png" height="52" alt="Switch to English"></a></p>
+
 
 <p align="center">
   <a href="https://joaocouto.alcetus.com"><kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/v2/site.svg" height="18" align="absmiddle" alt=""> joaocouto.alcetus.com</kbd></a>
